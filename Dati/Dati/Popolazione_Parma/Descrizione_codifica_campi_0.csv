@@ -1,0 +1,271 @@
+CAMPO;DESCRIZIONE CAMPO;CODICE;DESCRIZIONE CODICE
+Tipores;Tipo residenza;1;famiglia
+Tipores;Tipo residenza;2;convivenza anagrafica
+Sesso;Genere;1;maschio
+Sesso;Genere;2;femmina
+eta;Anno di eta';0;numerico
+Cittad;Cittadinanza;100;Italia
+Cittad;Cittadinanza;201;Albania
+Cittad;Cittadinanza;202;Andorra
+Cittad;Cittadinanza;203;Austria
+Cittad;Cittadinanza;206;Belgio
+Cittad;Cittadinanza;209;Bulgaria
+Cittad;Cittadinanza;212;Danimarca
+Cittad;Cittadinanza;214;Finlandia
+Cittad;Cittadinanza;215;Francia
+Cittad;Cittadinanza;216;Germania
+Cittad;Cittadinanza;219;Regno Unito
+Cittad;Cittadinanza;220;Grecia
+Cittad;Cittadinanza;221;Irlanda
+Cittad;Cittadinanza;223;Islanda
+Cittad;Cittadinanza;225;Liechtenstein
+Cittad;Cittadinanza;226;Lussemburgo
+Cittad;Cittadinanza;227;Malta
+Cittad;Cittadinanza;229;Monaco
+Cittad;Cittadinanza;231;Norvegia
+Cittad;Cittadinanza;232;Paesi Bassi
+Cittad;Cittadinanza;233;Polonia
+Cittad;Cittadinanza;234;Portogallo
+Cittad;Cittadinanza;235;Romania
+Cittad;Cittadinanza;236;San Marino
+Cittad;Cittadinanza;239;Spagna
+Cittad;Cittadinanza;240;Svezia
+Cittad;Cittadinanza;241;Svizzera
+Cittad;Cittadinanza;243;Ucraina
+Cittad;Cittadinanza;244;Ungheria
+Cittad;Cittadinanza;245;Federazione russa
+Cittad;Cittadinanza;246;Stato della Città del Vaticano
+Cittad;Cittadinanza;247;Estonia
+Cittad;Cittadinanza;248;Lettonia
+Cittad;Cittadinanza;249;Lituania
+Cittad;Cittadinanza;250;Croazia
+Cittad;Cittadinanza;251;Slovenia
+Cittad;Cittadinanza;252;Bosnia-Erzegovina
+Cittad;Cittadinanza;253;Macedonia del Nord
+Cittad;Cittadinanza;254;Moldova
+Cittad;Cittadinanza;255;Slovacchia
+Cittad;Cittadinanza;256;Bielorussia
+Cittad;Cittadinanza;257;Repubblica ceca
+Cittad;Cittadinanza;270;Montenegro
+Cittad;Cittadinanza;271;Serbia
+Cittad;Cittadinanza;272;Kosovo
+Cittad;Cittadinanza;301;Afghanistan
+Cittad;Cittadinanza;302;Arabia Saudita
+Cittad;Cittadinanza;304;Bahrein
+Cittad;Cittadinanza;305;Bangladesh
+Cittad;Cittadinanza;306;Bhutan
+Cittad;Cittadinanza;307;Myanmar/Birmania
+Cittad;Cittadinanza;309;Brunei Darussalam
+Cittad;Cittadinanza;310;Cambogia
+Cittad;Cittadinanza;311;Sri Lanka
+Cittad;Cittadinanza;314;Cina
+Cittad;Cittadinanza;315;Cipro
+Cittad;Cittadinanza;319;Corea del Nord
+Cittad;Cittadinanza;320;Corea del Sud
+Cittad;Cittadinanza;322;Emirati Arabi Uniti
+Cittad;Cittadinanza;323;Filippine
+Cittad;Cittadinanza;324;Palestina
+Cittad;Cittadinanza;326;Giappone
+Cittad;Cittadinanza;327;Giordania
+Cittad;Cittadinanza;330;India
+Cittad;Cittadinanza;331;Indonesia
+Cittad;Cittadinanza;332;Iran
+Cittad;Cittadinanza;333;Iraq
+Cittad;Cittadinanza;334;Israele
+Cittad;Cittadinanza;335;Kuwait
+Cittad;Cittadinanza;336;Laos
+Cittad;Cittadinanza;337;Libano
+Cittad;Cittadinanza;338;Timor Leste
+Cittad;Cittadinanza;339;Maldive
+Cittad;Cittadinanza;340;Malaysia
+Cittad;Cittadinanza;341;Mongolia
+Cittad;Cittadinanza;342;Nepal
+Cittad;Cittadinanza;343;Oman
+Cittad;Cittadinanza;344;Pakistan
+Cittad;Cittadinanza;345;Qatar
+Cittad;Cittadinanza;346;Singapore
+Cittad;Cittadinanza;348;Siria
+Cittad;Cittadinanza;349;Thailandia
+Cittad;Cittadinanza;351;Turchia
+Cittad;Cittadinanza;353;Vietnam
+Cittad;Cittadinanza;354;Yemen
+Cittad;Cittadinanza;356;Kazakhstan
+Cittad;Cittadinanza;357;Uzbekistan
+Cittad;Cittadinanza;358;Armenia
+Cittad;Cittadinanza;359;Azerbaigian
+Cittad;Cittadinanza;360;Georgia
+Cittad;Cittadinanza;361;Kirghizistan
+Cittad;Cittadinanza;362;Tagikistan
+Cittad;Cittadinanza;363;Taiwan
+Cittad;Cittadinanza;364;Turkmenistan
+Cittad;Cittadinanza;401;Algeria
+Cittad;Cittadinanza;402;Angola
+Cittad;Cittadinanza;404;Costa d'Avorio
+Cittad;Cittadinanza;406;Benin
+Cittad;Cittadinanza;408;Botswana
+Cittad;Cittadinanza;409;Burkina Faso
+Cittad;Cittadinanza;410;Burundi
+Cittad;Cittadinanza;411;Camerun
+Cittad;Cittadinanza;413;Capo Verde
+Cittad;Cittadinanza;414;Repubblica Centrafricana
+Cittad;Cittadinanza;415;Ciad
+Cittad;Cittadinanza;417;Comore
+Cittad;Cittadinanza;418;Congo
+Cittad;Cittadinanza;419;Egitto
+Cittad;Cittadinanza;420;Etiopia
+Cittad;Cittadinanza;421;Gabon
+Cittad;Cittadinanza;422;Gambia
+Cittad;Cittadinanza;423;Ghana
+Cittad;Cittadinanza;424;Gibuti
+Cittad;Cittadinanza;425;Guinea
+Cittad;Cittadinanza;426;Guinea-Bissau
+Cittad;Cittadinanza;427;Guinea equatoriale
+Cittad;Cittadinanza;428;Kenya
+Cittad;Cittadinanza;429;Lesotho
+Cittad;Cittadinanza;430;Liberia
+Cittad;Cittadinanza;431;Libia
+Cittad;Cittadinanza;432;Madagascar
+Cittad;Cittadinanza;434;Malawi
+Cittad;Cittadinanza;435;Mali
+Cittad;Cittadinanza;436;Marocco
+Cittad;Cittadinanza;437;Mauritania
+Cittad;Cittadinanza;438;Maurizio
+Cittad;Cittadinanza;440;Mozambico
+Cittad;Cittadinanza;441;Namibia
+Cittad;Cittadinanza;442;Niger
+Cittad;Cittadinanza;443;Nigeria
+Cittad;Cittadinanza;446;Ruanda
+Cittad;Cittadinanza;448;Sao Tomé e Principe
+Cittad;Cittadinanza;449;Seychelles
+Cittad;Cittadinanza;450;Senegal
+Cittad;Cittadinanza;451;Sierra Leone
+Cittad;Cittadinanza;453;Somalia
+Cittad;Cittadinanza;454;Sudafrica
+Cittad;Cittadinanza;455;Sudan
+Cittad;Cittadinanza;456;Eswatini
+Cittad;Cittadinanza;457;Tanzania
+Cittad;Cittadinanza;458;Togo
+Cittad;Cittadinanza;460;Tunisia
+Cittad;Cittadinanza;461;Uganda
+Cittad;Cittadinanza;463;Repubblica Democratica del Congo
+Cittad;Cittadinanza;464;Zambia
+Cittad;Cittadinanza;465;Zimbabwe
+Cittad;Cittadinanza;466;Eritrea
+Cittad;Cittadinanza;467;Sud Sudan
+Cittad;Cittadinanza;503;Antigua e Barbuda
+Cittad;Cittadinanza;505;Bahamas
+Cittad;Cittadinanza;506;Barbados
+Cittad;Cittadinanza;507;Belize
+Cittad;Cittadinanza;509;Canada
+Cittad;Cittadinanza;513;Costa Rica
+Cittad;Cittadinanza;514;Cuba
+Cittad;Cittadinanza;515;Dominica
+Cittad;Cittadinanza;516;Repubblica Dominicana
+Cittad;Cittadinanza;517;El Salvador
+Cittad;Cittadinanza;518;Giamaica
+Cittad;Cittadinanza;519;Grenada
+Cittad;Cittadinanza;523;Guatemala
+Cittad;Cittadinanza;524;Haiti
+Cittad;Cittadinanza;525;Honduras
+Cittad;Cittadinanza;527;Messico
+Cittad;Cittadinanza;529;Nicaragua
+Cittad;Cittadinanza;530;Panama
+Cittad;Cittadinanza;532;Santa Lucia
+Cittad;Cittadinanza;533;Saint Vincent e Grenadine
+Cittad;Cittadinanza;534;Saint Kitts e Nevis
+Cittad;Cittadinanza;536;Stati Uniti d'America
+Cittad;Cittadinanza;602;Argentina
+Cittad;Cittadinanza;604;Bolivia
+Cittad;Cittadinanza;605;Brasile
+Cittad;Cittadinanza;606;Cile
+Cittad;Cittadinanza;608;Colombia
+Cittad;Cittadinanza;609;Ecuador
+Cittad;Cittadinanza;612;Guyana
+Cittad;Cittadinanza;614;Paraguay
+Cittad;Cittadinanza;615;Perù
+Cittad;Cittadinanza;616;Suriname
+Cittad;Cittadinanza;617;Trinidad e Tobago
+Cittad;Cittadinanza;618;Uruguay
+Cittad;Cittadinanza;619;Venezuela
+Cittad;Cittadinanza;701;Australia
+Cittad;Cittadinanza;703;Figi
+Cittad;Cittadinanza;708;Kiribati
+Cittad;Cittadinanza;712;Isole Marshall
+Cittad;Cittadinanza;713;Stati Federati di Micronesia
+Cittad;Cittadinanza;715;Nauru
+Cittad;Cittadinanza;719;Nuova Zelanda
+Cittad;Cittadinanza;720;Palau
+Cittad;Cittadinanza;721;Papua Nuova Guinea
+Cittad;Cittadinanza;725;Isole Salomone
+Cittad;Cittadinanza;727;Samoa
+Cittad;Cittadinanza;730;Tonga
+Cittad;Cittadinanza;731;Tuvalu
+Cittad;Cittadinanza;732;Vanuatu
+Cittad;Cittadinanza;902;Nuova Caledonia
+Cittad;Cittadinanza;904;Saint-Martin (FR)
+Cittad;Cittadinanza;905;Sahara occidentale
+Cittad;Cittadinanza;906;Saint-Barthélemy
+Cittad;Cittadinanza;908;Bermuda
+Cittad;Cittadinanza;909;Isole Cook (NZ)
+Cittad;Cittadinanza;910;Gibilterra
+Cittad;Cittadinanza;911;Isole Cayman
+Cittad;Cittadinanza;917;Anguilla
+Cittad;Cittadinanza;920;Polinesia francese
+Cittad;Cittadinanza;924;Isole Faroe
+Cittad;Cittadinanza;925;Jersey
+Cittad;Cittadinanza;926;Aruba
+Cittad;Cittadinanza;928;Sint Maarten (NL)
+Cittad;Cittadinanza;934;Groenlandia
+Cittad;Cittadinanza;939;Sark
+Cittad;Cittadinanza;940;Guernsey
+Cittad;Cittadinanza;958;Isole Falkland (Malvine)
+Cittad;Cittadinanza;959;Isola di Man
+Cittad;Cittadinanza;964;Montserrat
+Cittad;Cittadinanza;966;Curaçao
+Cittad;Cittadinanza;972;Isole Pitcairn
+Cittad;Cittadinanza;980;Saint Pierre e Miquelon
+Cittad;Cittadinanza;983;Sant'Elena
+Cittad;Cittadinanza;988;Terre australi e antartiche francesi
+Cittad;Cittadinanza;992;Isole Turks e Caicos
+Cittad;Cittadinanza;994;Isole Vergini britanniche
+Cittad;Cittadinanza;997;Wallis e Futuna
+Ncomp;Numero componenti della famiglia;0;numerico
+Relpar;Relazione di parentela;1;Intestatario Scheda
+Relpar;Relazione di parentela;2;Marito / Moglie
+Relpar;Relazione di parentela;3;Figlio / Figlia
+Relpar;Relazione di parentela;4;Nipote (discendente)
+Relpar;Relazione di parentela;5;Pronipote (discendente)
+Relpar;Relazione di parentela;6;Padre / Madre
+Relpar;Relazione di parentela;7;Nonno / Nonna
+Relpar;Relazione di parentela;8;Bisnonno / Bisnonna
+Relpar;Relazione di parentela;9;Fratello / Sorella
+Relpar;Relazione di parentela;10;Nipote (collaterale)
+Relpar;Relazione di parentela;11;Zio / Zia (Collaterale)
+Relpar;Relazione di parentela;12;Cugino / Cugina
+Relpar;Relazione di parentela;13;Altro Parente
+Relpar;Relazione di parentela;14;Figliastro / Figliastra
+Relpar;Relazione di parentela;15;Patrigno / Matrigna
+Relpar;Relazione di parentela;16;Genero / Nuora
+Relpar;Relazione di parentela;17;Suocero / Suocera
+Relpar;Relazione di parentela;18;Cognato / Cognata
+Relpar;Relazione di parentela;19;Fratellastro / Sorellastra
+Relpar;Relazione di parentela;20;Nipote (Affine)
+Relpar;Relazione di parentela;21;Zio / Zia (Affine)
+Relpar;Relazione di parentela;22;Altro Affine
+Relpar;Relazione di parentela;23;Convivente (con vincoli di adozione o affettivi)
+Relpar;Relazione di parentela;24;Responsabile della convivenza non affettiva
+Relpar;Relazione di parentela;25;Convivente in convivenza non affettiva
+Relpar;Relazione di parentela;26;Tutore
+Relpar;Relazione di parentela;28;Unito civilmente
+Relpar;Relazione di parentela;80;Adottato
+Relpar;Relazione di parentela;81;Nipote
+Relpar;Relazione di parentela;99;Non definito/comunicato
+Staciv;Stato civile;2;Coniugato/a
+Staciv;Stato civile;3;Vedovo/a
+Staciv;Stato civile;4;Divorziato/a
+Staciv;Stato civile;9;Non classificabile/ignoto/n.c
+Staciv;Stato civile;6;Unito civilmente
+Staciv;Stato civile;7;Stato libero a seguito di decesso della parte unita civilmente
+Staciv;Stato civile;8;Stato libero a seguito di scioglimento dell'unione
+quartiere;Nome esteso del quartiere;0;Non applicabile
+Nsez;Numero sezione di censimento ISTAT 2011;0;Numero progressivo da 1 a 1281
